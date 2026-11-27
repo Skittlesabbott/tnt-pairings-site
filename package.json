@@ -5,9 +5,10 @@
   "description": "TnT Pairings website",
   "main": "server.js",
   "scripts": {
+    "build": "echo \"No build step needed\"",
     "start": "node server.js"
   },
   "engines": {
-    "node": ">=20"
+    "node": "24.x"
   }
 }
